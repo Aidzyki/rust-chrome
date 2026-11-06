@@ -46,7 +46,7 @@ sudo dnf install webkit2gtk4.1-devel gtk3-devel
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone https://github.com/ВАШ_НИК/rust_chrome.git
+   git clone https://github.com/Aidzyki/rust_chrome.git
    cd rust_chrome
    ```
 
